@@ -16,4 +16,4 @@ npx hardhat test
 npx hardhat run scripts/deploy.ts --network polygon-mumbai
 
 ## Mint task:
-npx hardhat mint --contract 0xda0fC9AB122ee11160fFF53531714915792f723a --amount 100000000000000 --network polygon-mumbai
+npx hardhat mint --contract 0x71d425B1D646ca9E63d593A17248Da4F1D809d9A --amount 100000000000000 --network polygon-mumbai
